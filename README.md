@@ -28,11 +28,3 @@ This application allows users to create, read, update, and delete blog posts wit
 - ⚡ REST API for frontend-backend communication  
 
 ---
-
-## ⚙️ Installation & Setup  
-
-### 🔹 Backend (Spring Boot)  
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/Yash72170/Blog-Website.git
-   cd Blog-Website/backend
